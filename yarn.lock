@@ -3,9 +3,9 @@
 
 
 "@oss-docs/sync@^0.2.0":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@oss-docs/sync/-/sync-0.2.2.tgz#5ff870b32089224577baa6697459e63f38afe3bb"
-  integrity sha512-zddZ60vS3AcIlglzHl4tfHfpV5vr55ojRPAwuqFgJCkzbkn5GoqEbi4rVvQyQrrru0xUPfquKudxaawcfmoDEw==
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/@oss-docs/sync/-/sync-0.2.9.tgz#eed163a1f60d4bf24d28d79ad73b4243ab918c30"
+  integrity sha512-9J9FGLiCMyk2BYCkgjwXje3MOZc8vwi9uT/GpnupoXxkWSf65tV69N8uelAz5Gzbdq/x0V6PoMpxSF7XdpSo/g==
   dependencies:
     cachedir "^2.3.0"
     cross-spawn "^7.0.1"

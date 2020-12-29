@@ -1,8 +1,7 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
-slug: /
+title: Doc 1 - French
+sidebar_label: Doc 1 - French
 ---
 
 ## Example file one
