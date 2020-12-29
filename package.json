@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "pull": "sync-docs pull"
+  },
+  "dependencies": {
+    "@oss-docs/sync": "^0.2.0"
+  }
+}

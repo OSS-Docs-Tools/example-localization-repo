@@ -1,0 +1,9 @@
+{
+    "app": "OSS-Docs-Tools/example-documentation-site",
+    "issues": {
+      "fr": 1
+    },
+    "docsRoots": [        
+        { "from": "docs/", "to": "docs/" }
+    ]
+}
